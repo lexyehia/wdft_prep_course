@@ -3,7 +3,7 @@ Exercise #1
 Initialize an empty array below in the variable numbers.
 */
 var numbers;
-
+console.log('Hello world');
 
 /*
 Exercise #2
@@ -17,7 +17,7 @@ for(var i=0;i<10;i++){
 
 /*
 Exercise #3
-Test that you used the array push method correctly by printing the sum of the values at position 3 and 6 of the array (use the console.log() function to print to the console). 
+Test that you used the array push method correctly by printing the sum of the values at position 3 and 6 of the array (use the console.log() function to print to the console).
 The outputted value should be 9.
 */
 
