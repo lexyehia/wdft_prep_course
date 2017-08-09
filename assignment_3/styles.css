@@ -1,6 +1,6 @@
 
 /* DO NOT CHANGE THESE STYLES */
-span 
+span
 {
 	display: inline-block;
 	background-color: orange;
@@ -27,43 +27,88 @@ div
 /* BEGIN YOUR CHANGES HERE */
 /***************************/
 
-/* FIRST ROW : FLOATS; */
+/* FIRST ROW : DISPLAY */
 .a1 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 20px 0;
 }
 
 .b1 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
 }
 
 .c1 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
 }
 
 .d1 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
 }
 
-/* SECOND ROW : DISPLAY */
+/* SECOND ROW : FLOAT */
 
 .a2 {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
 }
 
 .b2 {
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
+
 }
 
 .c2 {
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
+
 }
 
 .d2 {
+	width: 150px;
+	height: 150px;
+	margin: 0 20px 10px 0;
 }
 
 /* THIRD ROW : POSITION */
 
 .a3 {
+	width: 150px;
+	height: 150px;
 }
 
 .b3 {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 15px;
 }
 
 .c3 {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 35px;
 }
 
 .d3 {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 55px;
 }
